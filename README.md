@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Say Hello to HelloWired, take your store to the next level with this great free theme. The theme itself has some great features to mess around with! It really is perfect for store owners seeking for simplicity, and for those who want a really slick theme to build their new Magento design upon!
